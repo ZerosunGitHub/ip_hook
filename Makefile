@@ -12,7 +12,7 @@ install:
 	insmod $(target).ko
 uninstall:
 	rmmod $(target).ko
-# clean:
-	# rm -rf *.o *.mod.c *.ko
-	# rm -rf Module.symvers .*cmd .tmp_versions
-	# rm -rf *.order
+clean:
+	rm -rf *.o *.mod.c *.ko
+	rm -rf Module.symvers .*cmd .tmp_versions
+	rm -rf *.order

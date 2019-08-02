@@ -154,7 +154,7 @@ static int __exit check_ip_exit(void)
 
 module_init(check_ip_init);
 module_exit(check_ip_exit);
-MODULE_AUTHOR("Sun");
+MODULE_AUTHOR("zerosun");
 MODULE_DESCRIPTION("ip_hook");
 MODULE_VERSION("0.0.1");
 MODULE_ALIAS("VER 0.0.1");
