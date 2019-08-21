@@ -1,5 +1,5 @@
 # ip_hook
 
-Running on Ubuntu 14.04.2 
+Running on Ubuntu 14.04.6 LTSuanme 
 
-kernel version
+Kernel version 4.4.0-142-generic
